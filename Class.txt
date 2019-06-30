@@ -1,0 +1,3 @@
+Correct=35*100
+Inncorrect=55
+print(Correct/Incorrect)
