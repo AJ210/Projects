@@ -1,0 +1,7 @@
+.1 .Append adds an item to the end of the list.
+.2 .Remove, Removes an item from the list
+.3 extends the list by adding items of a list the end of another list or the same.
+.4 .pop removes the item at a specific index and returns it later.
+.clear Clears all list items
+5. The variable carries 1
+By:Aaron Johnson
